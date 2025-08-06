@@ -42,3 +42,4 @@ requirements.txt
 *.swp
 *.swo
 .DS_Store
+/testing
